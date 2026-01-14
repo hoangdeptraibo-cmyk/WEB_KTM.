@@ -10,9 +10,11 @@ body {
 }
 
 .banner {
-    background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url('anh1');
+    background-color: #f0f0f0;
+    background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url('anh1');
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
     height: 350px;
     width: 100%;
     position: relative;
@@ -130,7 +132,4 @@ body {
     .banner {
         margin-bottom: 20px;
     }
-
 }
-
-
