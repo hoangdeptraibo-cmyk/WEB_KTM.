@@ -11,7 +11,7 @@ body {
 
 .banner {
     background-color: #f0f0f0;
-    background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url('anh1');
+    background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url('hoàng-hôn.htm');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -133,3 +133,4 @@ body {
         margin-bottom: 20px;
     }
 }
+
